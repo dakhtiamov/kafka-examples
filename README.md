@@ -1,2 +1,2 @@
-# heroku
-heroku repo
+# Kafka examples.
+Code and operations.
